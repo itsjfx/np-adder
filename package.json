@@ -1,0 +1,19 @@
+{
+  "name": "np-adder",
+  "version": "1.0.0",
+  "description": "adds people from an np list",
+  "main": "app.js",
+  "dependencies": {
+    "irc": "^0.5.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "np"
+  ],
+  "author": "jfx",
+  "license": "MIT"
+}
