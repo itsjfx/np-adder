@@ -2,5 +2,5 @@
 adds people from a online list to 9kmmrbot
 
 npm i  
-edit app.js for your path and twitch channel name  
+edit config.js for your details
 node app.js
